@@ -125,3 +125,57 @@ button::before{
     font-size: 14px;
     margin: 0 1rem;
 }
+
+/* Fin Mobile */
+
+@media (min-width: 768px) {
+    article{
+        width: 411px;
+    }
+}
+
+/* Fin Tablet */
+
+@media (min-width: 1280px){
+
+    body{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 450px;
+        width: 600px;
+    }
+
+    article figure{
+        background-image: url("./assets/img/image-product-desktop.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 450px;
+        width: 50%;
+        border-bottom-left-radius: 10px;
+        border-top-right-radius: 0;
+        margin-top: 0;
+    }
+
+    article article{
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        height: 450px;
+        width: 50%;
+        padding: 2rem;
+    }
+
+    span{
+        margin-right: 15px;
+    }
+
+}
