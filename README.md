@@ -1,7 +1,7 @@
 ## Trabajo Práctico n° 2 
 ## Desarrollo Web
 
-# Product Preview Card Component
+# Product Preview Card Component 
 
 Este es el segundo práctico del curso de Desarrollo Web dictado por mi de manera On-Line para Informatic Training Center.
 
@@ -34,6 +34,6 @@ Este ejercicio se realizó buscando lograr dos cosas:
 
 
 
-# Les dejo el link a la demo como se ve deployada :simley:
+# Les dejo el link a la demo como se ve deployada 😃
 [Demo](https://product-preview-card-component0702.vercel.app/)
 
